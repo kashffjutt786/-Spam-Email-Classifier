@@ -68,7 +68,7 @@ Spam-Email-Classifier/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/kashffjutt786/-Spam-Email-Classifier.git
 ```
 
 ### 2. Open the project folder
