@@ -1,4 +1,5 @@
 
-streamlit
-scikit-learn
-joblib
+streamlit==1.67.0
+scikit-learn==1.9.1
+joblib==1.6.0
+
